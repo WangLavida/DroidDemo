@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\wj\\Demo\\DroidDemo\\DroidPlugin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\plugin_activity_loading_bitmap.9.png",
+        "source": "G:\\wj\\Demo\\DroidDemo\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\plugin_activity_loading_bitmap.9.png"
+    },
+    {
+        "merged": "G:\\wj\\Demo\\DroidDemo\\DroidPlugin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\plugin_activity_loading.xml",
+        "source": "G:\\wj\\Demo\\DroidDemo\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\plugin_activity_loading.xml"
+    }
+]
